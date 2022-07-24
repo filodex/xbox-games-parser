@@ -1,51 +1,66 @@
+/**
+ *  По каждой игре сделать запрос на цену
+ */
+
 import axios from 'axios'
 import fs from 'fs'
 
-let ids = await getMoreIds()
-writeIdsToFile(ids)
+let ids_origin = JSON.parse(fs.readFileSync('src/ids.json'))
+let ids_nums = [
+    1, 2, 3, 4, 4, 14, 215, 1252, 1, 5, 32, 5, 1, 52, 35, 13, 35312, 35, 1, 5,
+    15, 32, 543, 654, 56, 45, 62, 3, 562, 46, 32, 6, 1246, 3, 461, 6, 214, 61,
+    6, 16, 3, 6, 234, 63, 64, 43, 6, 346, 3, 6, 3, 6, 34, 66, 3,
+]
+await getGameInfoByIds(ids_origin)
 
-async function getMoreIds() {
-    let ids = new Set()
-    let allLinks = [
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/New?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/BestRated?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/Deal?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/MostPlayed?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/TopPaid?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&gamecapabilities=capabilityxboxenhanced&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/TopPaid?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&gamecapabilities=capability4k&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/TopPaid?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&gamecapabilities=capabilityhdr&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/TopPaid?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&NumberOfPlayers=SinglePlayer&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/TopPaid?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&NumberOfPlayers=OnlineMultiplayerWithGold&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/TopPaid?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&NumberOfPlayers=LocalMultiplayer&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/TopPaid?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&NumberOfPlayers=CoopSupportOnline&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/TopPaid?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&NumberOfPlayers=CoopSupportLocal&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/TopPaid?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&gamecapabilities=XPA&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/TopPaid?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&gamecapabilities=gamestreaming&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/TopPaid?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&gamecapabilities=consolecrossgen&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/TopPaid?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&gamecapabilities=ConsoleGen9Optimized&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/TopFree?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&gamecapabilities=capabilityxboxenhanced&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/New?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&gamecapabilities=capabilityxboxenhanced&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/New?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&gamecapabilities=capability4k&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/New?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&gamecapabilities=capabilityhdr&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/Deal?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&count=2000&skipitems=200',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/Deal?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&count=2000&skipitems=400',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/TopPaid?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&count=2000&skipitems=0',
-        'https://reco-public.rec.mp.microsoft.com/channels/Reco/V8.0/Lists/Computed/Deal?Market=tr&Language=tr&ItemTypes=Game&deviceFamily=Windows.Xbox&count=2000&skipitems=600',
-    ]
-    console.log("Parsing id's, please wait...")
-    for await (const link of allLinks) {
-        let res = await axios.get(link)
-
-        for (const iter of res.data.Items) {
-            ids.add(iter.Id)
-        }
+// Получит массив любого размера и по каждому элементу отправит запрос
+async function getGameInfoByIds(ids_origin) {
+    let ids = [...ids_origin]
+    if (!ids || !Array.isArray(ids)) {
+        console.log("Please provide Id's array")
+        return
     }
+    // Разделить айдишники по 10шт
+    function splitIdsByTen(arr) {
+        let arr_allBlocks = []
+        let block = []
+        for (const iter of arr) {
+            if (block.length === 10) {
+                arr_allBlocks.push(block)
+                block = []
+            }
+            block.push(iter)
+        }
+        arr_allBlocks.push(block)
+        return arr_allBlocks
+    }
+    let ids_splittedByTen = splitIdsByTen(ids)
 
-    console.log(`Parsed ${ids.size} id\'s from Xbox microsoft`)
-    return Array.from(ids)
-}
+    let gamesInfo = []
+    for await (const blockOfTen of ids_splittedByTen) {
+        // Запрос на 10 айдишников
+        let linkInfo = `https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=${blockOfTen.toString()}&market=TR&languages=tr-tr&MS-CV=DGU1mcuYo0WMMp+F.1`
+        let res = await axios.get(linkInfo)
 
-function writeIdsToFile(ids) {
-    fs.writeFileSync('src/ids.json', '')
-    fs.writeFileSync('src/ids.json', JSON.stringify(ids, '', ' '))
+        // Упорядочивание инфы
+        let products = res.data.Products
+        for (const product of products) {
+            let info = {}
+            info.id = product.ProductId
+            let sku = product.DisplaySkuAvailabilities[0].Sku
+            info.title = sku.LocalizedProperties[0].SkuTitle
+            info.lastModifiedDate = sku.LastModifiedDate
+            info.firstAvailableDate = sku.MarketProperties[0].FirstAvailableDate
+            info.price =
+                product.DisplaySkuAvailabilities[0].Availabilities[0].OrderManagementData.Price
+
+            gamesInfo.push(info)
+            console.log(info.title)
+        }
+        fs.writeFileSync(
+            'src/fullInfo.json',
+            JSON.stringify(gamesInfo, '', ' ')
+        )
+        console.log(gamesInfo.length)
+    }
 }

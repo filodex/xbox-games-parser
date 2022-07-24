@@ -1,0 +1,2013 @@
+{
+    "Products": [
+        {
+            "LastModifiedDate": "2022-06-20T17:51:22.8291901Z",
+            "LocalizedProperties": [
+                {
+                    "DeveloperName": "Konami Digital Entertainment",
+                    "PublisherName": "Konami Digital Entertainment",
+                    "PublisherWebsiteUri": "",
+                    "SupportUri": "",
+                    "EligibilityProperties": {
+                        "Remediations": [
+                            {
+                                "RemediationId": "9ZH7BH6P9RM7",
+                                "Description": "Bugün Altın hesap alarak size özel Xbox indirimlerinden, özel kampanyalarından ve tekliflerinden faydalanın."
+                            }
+                        ],
+                        "Affirmations": []
+                    },
+                    "Franchises": [],
+                    "Images": [
+                        {
+                            "FileId": "3015973037222089854",
+                            "EISListingIdentifier": null,
+                            "BackgroundColor": "",
+                            "Caption": "",
+                            "FileSizeInBytes": 770367,
+                            "ForegroundColor": "",
+                            "Height": 800,
+                            "ImagePositionInfo": "",
+                            "ImagePurpose": "BrandedKeyArt",
+                            "UnscaledImageSHA256Hash": "ooOzoHKtHVR4/ORuPSAmucuCO4l9pvPGSZM3cGWFCBs=",
+                            "Uri": "//store-images.s-microsoft.com/image/apps.33698.13882345728390792.0b3ebcfd-c6b0-4348-8e21-9249bcea3373.19dc94f1-0d33-46da-bae3-ce5a426dc6c4",
+                            "Width": 584
+                        },
+                        {
+                            "FileId": "3069487515977150017",
+                            "EISListingIdentifier": null,
+                            "BackgroundColor": "",
+                            "Caption": "",
+                            "FileSizeInBytes": 3543042,
+                            "ForegroundColor": "",
+                            "Height": 1080,
+                            "ImagePositionInfo": "",
+                            "ImagePurpose": "TitledHeroArt",
+                            "UnscaledImageSHA256Hash": "YHoxvReyJtr+7wnDxU3uvtJYOnzBfSneqU5vay/1Nws=",
+                            "Uri": "//store-images.s-microsoft.com/image/apps.31328.13882345728390792.0b3ebcfd-c6b0-4348-8e21-9249bcea3373.cd3a0746-904e-4b3d-bfa4-343a0c890163",
+                            "Width": 1920
+                        },
+                        {
+                            "FileId": "3051535864177296439",
+                            "EISListingIdentifier": null,
+                            "BackgroundColor": "",
+                            "Caption": "",
+                            "FileSizeInBytes": 1005827,
+                            "ForegroundColor": "",
+                            "Height": 1080,
+                            "ImagePositionInfo": "Xbox/0",
+                            "ImagePurpose": "Screenshot",
+                            "UnscaledImageSHA256Hash": "0gaVUPT3WJRcx/EzzMgido1hOGV0XGCNZeZ+6t5Hr/8=",
+                            "Uri": "//store-images.s-microsoft.com/image/apps.1746.13882345728390792.0b3ebcfd-c6b0-4348-8e21-9249bcea3373.476cd873-8786-46f4-8a1a-58f009c412c6",
+                            "Width": 1920
+                        },
+                        {
+                            "FileId": "3001842702863280893",
+                            "EISListingIdentifier": null,
+                            "BackgroundColor": "",
+                            "Caption": "",
+                            "FileSizeInBytes": 3827375,
+                            "ForegroundColor": "",
+                            "Height": 2160,
+                            "ImagePositionInfo": "",
+                            "ImagePurpose": "Poster",
+                            "UnscaledImageSHA256Hash": "O2eTcO0EeRdQT7ch8WwjD1+WK64WEXJvpMTiNDgxMKE=",
+                            "Uri": "//store-images.s-microsoft.com/image/apps.26427.13882345728390792.0b3ebcfd-c6b0-4348-8e21-9249bcea3373.586cd8df-9747-4f33-860f-067d55dc8e50",
+                            "Width": 1440
+                        },
+                        {
+                            "FileId": "3028001604536160001",
+                            "EISListingIdentifier": null,
+                            "BackgroundColor": "",
+                            "Caption": "",
+                            "FileSizeInBytes": 4907613,
+                            "ForegroundColor": "",
+                            "Height": 2160,
+                            "ImagePositionInfo": "",
+                            "ImagePurpose": "BoxArt",
+                            "UnscaledImageSHA256Hash": "YxBFmP89CmLQcTqFsEWnbjLRuF4bDN6Vr56j+zIRGxA=",
+                            "Uri": "//store-images.s-microsoft.com/image/apps.4195.13882345728390792.0b3ebcfd-c6b0-4348-8e21-9249bcea3373.2400d56f-8163-48c8-861f-15e9d59e6424",
+                            "Width": 2160
+                        },
+                        {
+                            "FileId": "3008163386292966176",
+                            "EISListingIdentifier": null,
+                            "BackgroundColor": "",
+                            "Caption": "",
+                            "FileSizeInBytes": 1874820,
+                            "ForegroundColor": "",
+                            "Height": 1080,
+                            "ImagePositionInfo": "",
+                            "ImagePurpose": "FeaturePromotionalSquareArt",
+                            "UnscaledImageSHA256Hash": "X7pWyhicUOykfJpScA06FvOb62rVwhQrRbxbk2f8Cyk=",
+                            "Uri": "//store-images.s-microsoft.com/image/apps.47711.13882345728390792.0b3ebcfd-c6b0-4348-8e21-9249bcea3373.8f522eee-d0ca-4b57-a9f8-d13ece70b6d4",
+                            "Width": 1080
+                        },
+                        {
+                            "FileId": "3002818522793848988",
+                            "EISListingIdentifier": null,
+                            "BackgroundColor": "",
+                            "Caption": "",
+                            "FileSizeInBytes": 3688958,
+                            "ForegroundColor": "",
+                            "Height": 1080,
+                            "ImagePositionInfo": "",
+                            "ImagePurpose": "SuperHeroArt",
+                            "UnscaledImageSHA256Hash": "UNSr2AhA/RPugs03xrXgA8kV59Wf6Ja5ElLWaGDhShI=",
+                            "Uri": "//store-images.s-microsoft.com/image/apps.54352.13882345728390792.0b3ebcfd-c6b0-4348-8e21-9249bcea3373.3a3da407-fd6e-4701-94fe-ceac8f393d56",
+                            "Width": 1920
+                        },
+                        {
+                            "FileId": "3030740318678639258",
+                            "EISListingIdentifier": null,
+                            "BackgroundColor": "",
+                            "Caption": "",
+                            "FileSizeInBytes": 1696634,
+                            "ForegroundColor": "",
+                            "Height": 1080,
+                            "ImagePositionInfo": "Xbox/1",
+                            "ImagePurpose": "Screenshot",
+                            "UnscaledImageSHA256Hash": "dOuHhCmQBVVTSrk7hpGGl3c5fa3iDlnUx65c3mtvS+o=",
+                            "Uri": "//store-images.s-microsoft.com/image/apps.60276.13882345728390792.0b3ebcfd-c6b0-4348-8e21-9249bcea3373.3ada9953-7abd-40fa-8788-ceb879b53adc",
+                            "Width": 1920
+                        },
+                        {
+                            "FileId": "3064296753019949321",
+                            "EISListingIdentifier": null,
+                            "BackgroundColor": "",
+                            "Caption": "",
+                            "FileSizeInBytes": 1316110,
+                            "ForegroundColor": "",
+                            "Height": 1080,
+                            "ImagePositionInfo": "Xbox/2",
+                            "ImagePurpose": "Screenshot",
+                            "UnscaledImageSHA256Hash": "2e3TrWXIeX4wtpBbkHVx06ABOGvbzpyd1SnizHcF30U=",
+                            "Uri": "//store-images.s-microsoft.com/image/apps.60889.13882345728390792.0b3ebcfd-c6b0-4348-8e21-9249bcea3373.0fada897-7f07-4603-99c5-bfab17991a4c",
+                            "Width": 1920
+                        },
+                        {
+                            "FileId": "3061643633839579077",
+                            "EISListingIdentifier": null,
+                            "BackgroundColor": "",
+                            "Caption": "",
+                            "FileSizeInBytes": 686214,
+                            "ForegroundColor": "",
+                            "Height": 1080,
+                            "ImagePositionInfo": "Xbox/3",
+                            "ImagePurpose": "Screenshot",
+                            "UnscaledImageSHA256Hash": "OcVGC1KFuCF9N4oWlE312N1+0cILd41bOsn1YoThnMc=",
+                            "Uri": "//store-images.s-microsoft.com/image/apps.50489.13882345728390792.0b3ebcfd-c6b0-4348-8e21-9249bcea3373.743d1869-c049-43da-bd69-4ceb1601f3e2",
+                            "Width": 1920
+                        },
+                        {
+                            "FileId": "3018086401030004046",
+                            "EISListingIdentifier": null,
+                            "BackgroundColor": "",
+                            "Caption": "",
+                            "FileSizeInBytes": 1403939,
+                            "ForegroundColor": "",
+                            "Height": 1080,
+                            "ImagePositionInfo": "Xbox/4",
+                            "ImagePurpose": "Screenshot",
+                            "UnscaledImageSHA256Hash": "LcMshz567fxox4l9/pR5tNNBz5jGSWg1Z+BPhXlbNWs=",
+                            "Uri": "//store-images.s-microsoft.com/image/apps.49965.13882345728390792.0b3ebcfd-c6b0-4348-8e21-9249bcea3373.0f876e29-0cbc-4962-b1ae-9834680b982b",
+                            "Width": 1920
+                        },
+                        {
+                            "FileId": "3047293847725031201",
+                            "EISListingIdentifier": null,
+                            "BackgroundColor": "",
+                            "Caption": "",
+                            "FileSizeInBytes": 1477515,
+                            "ForegroundColor": "",
+                            "Height": 1080,
+                            "ImagePositionInfo": "Xbox/5",
+                            "ImagePurpose": "Screenshot",
+                            "UnscaledImageSHA256Hash": "cJbgUzNq9JgJU/UkNMQ4n4n6OMgzt9WMkXEcOMYyefg=",
+                            "Uri": "//store-images.s-microsoft.com/image/apps.38512.13882345728390792.0b3ebcfd-c6b0-4348-8e21-9249bcea3373.748921bc-d3fb-4f7a-95bf-867a769bfdfc",
+                            "Width": 1920
+                        },
+                        {
+                            "FileId": "3068522333514922776",
+                            "EISListingIdentifier": null,
+                            "BackgroundColor": "",
+                            "Caption": "",
+                            "FileSizeInBytes": 1114029,
+                            "ForegroundColor": "",
+                            "Height": 1080,
+                            "ImagePositionInfo": "Xbox/6",
+                            "ImagePurpose": "Screenshot",
+                            "UnscaledImageSHA256Hash": "yuBV1qxYKm/98emNhcuO6Kw4k3ImJ9U19NFrucICqAs=",
+                            "Uri": "//store-images.s-microsoft.com/image/apps.57546.13882345728390792.0b3ebcfd-c6b0-4348-8e21-9249bcea3373.4a5f83d6-6397-4d0d-9820-e8d080b291be",
+                            "Width": 1920
+                        },
+                        {
+                            "FileId": "3062825159896270844",
+                            "EISListingIdentifier": null,
+                            "BackgroundColor": "",
+                            "Caption": "",
+                            "FileSizeInBytes": 1137159,
+                            "ForegroundColor": "",
+                            "Height": 1080,
+                            "ImagePositionInfo": "Xbox/7",
+                            "ImagePurpose": "Screenshot",
+                            "UnscaledImageSHA256Hash": "nvBCnoCkbO80k3HPQ2dUAkcTDz7DyRYRUd3SZTlGmTc=",
+                            "Uri": "//store-images.s-microsoft.com/image/apps.61598.13882345728390792.0b3ebcfd-c6b0-4348-8e21-9249bcea3373.011df2a2-33e2-4b6d-9163-802328658a20",
+                            "Width": 1920
+                        }
+                    ],
+                    "Videos": [
+                        {
+                            "Uri": "http://universalstore.streaming.mediaservices.windows.net/3c72c80c-6680-4c96-aeb3-f3092b5d3228/7d2f42f5-c57b-4089-be65-c219f0d8.ism/manifest",
+                            "VideoPurpose": "trailer",
+                            "Height": 1080,
+                            "Width": 1920,
+                            "AudioEncoding": "",
+                            "VideoEncoding": "avc1",
+                            "VideoPositionInfo": "Video/0",
+                            "Caption": "Castlevania Advance Collection",
+                            "FileSizeInBytes": 156825857,
+                            "PreviewImage": {
+                                "FileId": "3006560281598185854",
+                                "EISListingIdentifier": null,
+                                "BackgroundColor": null,
+                                "Caption": "Castlevania Advance Collection",
+                                "FileSizeInBytes": 3688958,
+                                "ForegroundColor": null,
+                                "Height": 1080,
+                                "ImagePositionInfo": null,
+                                "ImagePurpose": "trailer",
+                                "UnscaledImageSHA256Hash": "UNSr2AhA/RPugs03xrXgA8kV59Wf6Ja5ElLWaGDhShI=",
+                                "Uri": "//store-images.s-microsoft.com/image/apps.54352.13882345728390792.0b3ebcfd-c6b0-4348-8e21-9249bcea3373.3a3da407-fd6e-4701-94fe-ceac8f393d56",
+                                "Width": 1920
+                            },
+                            "TrailerId": "01a70bbe-ece8-5cd7-7a55-b8116606d5a0",
+                            "SortOrder": 1
+                        }
+                    ],
+                    "ProductDescription": "Kont Dracula yine ölümden döndü...\r\n\r\nKlasik aksiyon keşif başyapıtlarından oluşan bir seri olan Castlevania Advance Collection'da Kötülüğe karşı verilen savaşa katıl!\r\n\r\n2000'lerin başında yayınlanan efsanevi üç Castlevania oyununa ek olarak bu koleksiyonda Castlevania: Dracula X ve oyunlara ait daha önce görülmemiş çizimler ve sanat eserleri bulunuyor!\r\n\r\nOyunların dördüne de Geri Sarma, Kaydetme/Yükleme ve Tekrar Oynatma gibi yeni modern özellikler eklendi, böylece bu klasik oyunları deneyimlemenin veya ilk defa keşfetmenin en iyi yolunu sunuyoruz! Bu koleksiyonda ayrıca faydalı bir Ansiklopedi, tüm oyun müziklerinin bulunduğu bir Müzik Çalar bulunuyor ve hatta tüm oyunların farklı sürümlerini oynayabilmek için ROM Bölgesini bile değiştirebilirsin.\r\n\r\n\r\nBULUNAN OYUNLAR\r\n\r\nCastlevania: Circle of the Moon - Hikayede bir vampir avcısı çırağı olan Nathan Graves, ustasıyla birlikte Kont'un geri dönmesini önlemek için Dracula'nın Kalesi'ne giriyor. \"Dual Set-up System\" ile ateş kamçılarından buz fırtınalarına kadar çeşitlenen 80'in üzerinde eşsiz büyü etkisi oluşturmak için aksiyonu ve özellik kartlarını birleştir.\r\n\r\nCastlevania: Harmony of Dissonance - Efsanevi Vampir Avcısı Simon Belmont'un torunu olan Juste Belmont olarak oyna! Bu oyun, seriye \"Boss Rush\" modu ve oyunculara Fırlatılabilir Silahları Büyü Kitaplarıyla birleştirerek yıkıcı büyüler oluşturma imkanı sunan \"Büyü Birleştirme\" sistemi gibi bir sürü yeni özellik kattı.\r\n\r\nCastlevania: Aria of Sorrow - Japonya'daki liseli genç bir değişim öğrencisi olan Soma Cruz'un bir şekilde Karanlık Lort'un ebedi reenkarnasyon döngüsüyle bağlantısı var. Tüm bunlarda Soma'nın rolü ne? Soma kendi dünyasına geri dönebilecek mi? Aria of Sorrow ile oyuna Soma Cruz'un öldürdüğü canavarların ruhlarını toplayarak onların yeteneklerini kazanmasını sağlayan yepyeni bir saldırı sistemi olan \"Tactical Souls\" eklendi. (Toplamda 100'ün üstünde yetenek!) Ayrıca Aria of Sorrow'da bir sürü New Game+ içeriği var.\r\n\r\nCastlevania: Dracula X - Castlevania: Dracula X, unutulmaz aksiyon oyunu olan Castlevania: Rondo of Blood'ın yeniden hayal edilerek tasarlanan halidir ve şimdiye kadar hazırlanan en zorlu Castlevania oyunlarından biri olarak bilinir. Karanlık Lort Kont Dracula, karanlık kuvvetleri diriltip bu yozlaşan dünyayı yok etmek ve yeni bir dünya oluşturmak için tekrar ölümden dönüyor. Belmont ailesinin varisi olan Richter Belmont olarak oynuyorsun ve şeytani Dracula'yı yenmek için Dracula'nın Kalesi'ne doğru ilerliyorsun. Dracula'nın Kalesi'nde savaşarak ilerle ve yeni özel saldırı olan \"Item Crash\" ile en zorlu düşmanları yen!\r\n\r\n\r\nDAHA İYI BIR DENEYIM IÇIN YEPYENI ÖZELLIKLER!\r\n\r\nGaleri - Orijinal paket tasarımlarının taranmış hallerine göz at ve daha önce hiç yayınlanmayan inanılmaz sanat eserlerini keşfet.\r\n\r\nROM Bölgesi Seçimi - Her oyunun Japonya, Amerika ve Avrupa sürümlerini seçebilirsin.\r\n\r\nAnsiklopedi - Özel ansiklopedileri sayesinde üç oyunun her biri hakkında daha çok şey öğren. Düşmanlar hakkında detaylı bilgiler, \"DSS\", \"Tactical Soul\" ve \"Büyü Birleştirme\" sistemleri sayesinde her oyunun eşsiz savaş sisteminde ustalaşacaksın!\r\n\r\nMüzik Çalar - İstediğin zaman dört oyunun tüm oyun müziklerinden istediğini dinleyebilirsin. Hatta kendi çalma listelerini hazırlayabilirsin!\r\n\r\n\r\nYENI \"YAŞAM KALITESI\" ÖZELLIKLERI\r\n\r\nKaydetme/Yükleme - Artık oyunun istediğin yerinde oyunu hızlıca kaydedebilir ve yeniden yükleyebilirsin. Hatta bunu tam Dracula'nın ölümcül saldırısının öncesinde bile yapabilirsin.\r\n\r\nGeri Sarma - Artık ikinci bir şans için oyunun durumunu birkaç saniye geriye sarabilirsin. Neredeyse dirilmek gibi...\r\n\r\nTekrar Oynatma - Artık oyunlarını kaydedebilir ve tekrar oynatabilirsin. Bu, yeni taktikler hazırlamak, speed run yapmak ve yayıncılık için harika bir özellik.",
+                    "ProductTitle": "Castlevania Advance Collection",
+                    "ShortTitle": "Castlevania Advance Collection",
+                    "SortTitle": "Castlevania Advance Collection",
+                    "FriendlyTitle": null,
+                    "ShortDescription": "Kont Dracula yine ölümden döndü...\r\n\r\nKlasik aksiyon keşif başyapıtlarından oluşan bir seri olan Castlevania Advance Collection'da Kötülüğe karşı verilen savaşa katıl!",
+                    "SearchTitles": [
+                        {
+                            "SearchTitleString": "castlevania",
+                            "SearchTitleType": "SearchHint"
+                        },
+                        {
+                            "SearchTitleString": "advance",
+                            "SearchTitleType": "SearchHint"
+                        },
+                        {
+                            "SearchTitleString": "collection",
+                            "SearchTitleType": "SearchHint"
+                        },
+                        {
+                            "SearchTitleString": "castle",
+                            "SearchTitleType": "SearchHint"
+                        },
+                        {
+                            "SearchTitleString": "dracula",
+                            "SearchTitleType": "SearchHint"
+                        },
+                        {
+                            "SearchTitleString": "ImportListings",
+                            "SearchTitleType": "SearchHint"
+                        },
+                        {
+                            "SearchTitleString": "konami",
+                            "SearchTitleType": "SearchHint"
+                        }
+                    ],
+                    "VoiceTitle": "Castlevania Advance Collection",
+                    "RenderGroupDetails": null,
+                    "ProductDisplayRanks": [],
+                    "InteractiveModelConfig": null,
+                    "Interactive3DEnabled": false,
+                    "Language": "tr",
+                    "Markets": [
+                        "US",
+                        "DZ",
+                        "AR",
+                        "AU",
+                        "AT",
+                        "BH",
+                        "BD",
+                        "BE",
+                        "BR",
+                        "BG",
+                        "CA",
+                        "CL",
+                        "CN",
+                        "CO",
+                        "CR",
+                        "HR",
+                        "CY",
+                        "CZ",
+                        "DK",
+                        "EG",
+                        "EE",
+                        "FI",
+                        "FR",
+                        "DE",
+                        "GR",
+                        "GT",
+                        "HK",
+                        "HU",
+                        "IS",
+                        "IN",
+                        "ID",
+                        "IQ",
+                        "IE",
+                        "IL",
+                        "IT",
+                        "JP",
+                        "JO",
+                        "KZ",
+                        "KE",
+                        "KW",
+                        "LV",
+                        "LB",
+                        "LI",
+                        "LT",
+                        "LU",
+                        "MY",
+                        "MT",
+                        "MR",
+                        "MX",
+                        "MA",
+                        "NL",
+                        "NZ",
+                        "NG",
+                        "NO",
+                        "OM",
+                        "PK",
+                        "PE",
+                        "PH",
+                        "PL",
+                        "PT",
+                        "QA",
+                        "RO",
+                        "RU",
+                        "SA",
+                        "RS",
+                        "SG",
+                        "SK",
+                        "SI",
+                        "ZA",
+                        "KR",
+                        "ES",
+                        "SE",
+                        "CH",
+                        "TW",
+                        "TH",
+                        "TT",
+                        "TN",
+                        "TR",
+                        "UA",
+                        "AE",
+                        "GB",
+                        "VN",
+                        "YE",
+                        "LY",
+                        "LK",
+                        "UY",
+                        "VE",
+                        "AF",
+                        "AX",
+                        "AL",
+                        "AS",
+                        "AO",
+                        "AI",
+                        "AQ",
+                        "AG",
+                        "AM",
+                        "AW",
+                        "BO",
+                        "BQ",
+                        "BA",
+                        "BW",
+                        "BV",
+                        "IO",
+                        "BN",
+                        "BF",
+                        "BI",
+                        "KH",
+                        "CM",
+                        "CV",
+                        "KY",
+                        "CF",
+                        "TD",
+                        "TL",
+                        "DJ",
+                        "DM",
+                        "DO",
+                        "EC",
+                        "SV",
+                        "GQ",
+                        "ER",
+                        "ET",
+                        "FK",
+                        "FO",
+                        "FJ",
+                        "GF",
+                        "PF",
+                        "TF",
+                        "GA",
+                        "GM",
+                        "GE",
+                        "GH",
+                        "GI",
+                        "GL",
+                        "GD",
+                        "GP",
+                        "GU",
+                        "GG",
+                        "GN",
+                        "GW",
+                        "GY",
+                        "HT",
+                        "HM",
+                        "HN",
+                        "AZ",
+                        "BS",
+                        "BB",
+                        "BY",
+                        "BZ",
+                        "BJ",
+                        "BM",
+                        "BT",
+                        "KM",
+                        "CG",
+                        "CD",
+                        "CK",
+                        "CX",
+                        "CC",
+                        "CI",
+                        "CW",
+                        "JM",
+                        "SJ",
+                        "JE",
+                        "KI",
+                        "KG",
+                        "LA",
+                        "LS",
+                        "LR",
+                        "MO",
+                        "MK",
+                        "MG",
+                        "MW",
+                        "IM",
+                        "MH",
+                        "MQ",
+                        "MU",
+                        "YT",
+                        "FM",
+                        "MD",
+                        "MN",
+                        "MS",
+                        "MZ",
+                        "MM",
+                        "NA",
+                        "NR",
+                        "NP",
+                        "MV",
+                        "ML",
+                        "NC",
+                        "NI",
+                        "NE",
+                        "NU",
+                        "NF",
+                        "PW",
+                        "PS",
+                        "PA",
+                        "PG",
+                        "PY",
+                        "RE",
+                        "RW",
+                        "BL",
+                        "MF",
+                        "WS",
+                        "ST",
+                        "SN",
+                        "MP",
+                        "PN",
+                        "SX",
+                        "SB",
+                        "SO",
+                        "SC",
+                        "SL",
+                        "GS",
+                        "SH",
+                        "KN",
+                        "LC",
+                        "PM",
+                        "VC",
+                        "TJ",
+                        "TZ",
+                        "TG",
+                        "TK",
+                        "TO",
+                        "TM",
+                        "TC",
+                        "TV",
+                        "UM",
+                        "UG",
+                        "VI",
+                        "VG",
+                        "WF",
+                        "EH",
+                        "ZM",
+                        "ZW",
+                        "UZ",
+                        "VU",
+                        "SR",
+                        "SZ",
+                        "AD",
+                        "MC",
+                        "SM",
+                        "ME",
+                        "VA",
+                        "NEUTRAL"
+                    ]
+                }
+            ],
+            "MarketProperties": [
+                {
+                    "OriginalReleaseDate": "2021-09-24T01:00:00.0000000Z",
+                    "MinimumUserAge": 12,
+                    "ContentRatings": [
+                        {
+                            "RatingSystem": "CERO",
+                            "RatingId": "CERO:B",
+                            "RatingDescriptors": ["CERO:Vio"],
+                            "RatingDisclaimers": [],
+                            "InteractiveElements": []
+                        },
+                        {
+                            "RatingSystem": "ESRB",
+                            "RatingId": "ESRB:T",
+                            "RatingDescriptors": [
+                                "ESRB:Blo",
+                                "ESRB:MilLan",
+                                "ESRB:ParNud",
+                                "ESRB:Vio"
+                            ],
+                            "RatingDisclaimers": [],
+                            "InteractiveElements": []
+                        },
+                        {
+                            "RatingSystem": "PCBP",
+                            "RatingId": "PCBP:12",
+                            "RatingDescriptors": [],
+                            "RatingDisclaimers": [],
+                            "InteractiveElements": []
+                        },
+                        {
+                            "RatingSystem": "PEGI",
+                            "RatingId": "PEGI:12",
+                            "RatingDescriptors": ["PEGI:BadLan", "PEGI:Vio"],
+                            "RatingDisclaimers": [],
+                            "InteractiveElements": []
+                        },
+                        {
+                            "RatingSystem": "USK",
+                            "RatingId": "USK:6",
+                            "RatingDescriptors": [],
+                            "RatingDisclaimers": [],
+                            "InteractiveElements": []
+                        },
+                        {
+                            "RatingSystem": "DJCTQ",
+                            "RatingId": "DJCTQ:12",
+                            "RatingDescriptors": ["DJCTQ:Vio"],
+                            "RatingDisclaimers": [],
+                            "InteractiveElements": []
+                        },
+                        {
+                            "RatingSystem": "COB-AU",
+                            "RatingId": "COB-AU:M",
+                            "RatingDescriptors": ["COB-AU:FanVio"],
+                            "RatingDisclaimers": [],
+                            "InteractiveElements": []
+                        },
+                        {
+                            "RatingSystem": "CSRR",
+                            "RatingId": "CSRR:PG12",
+                            "RatingDescriptors": [
+                                "CSRR:Hor",
+                                "CSRR:InaLan",
+                                "CSRR:Sex",
+                                "CSRR:Vio"
+                            ],
+                            "RatingDisclaimers": [],
+                            "InteractiveElements": []
+                        },
+                        {
+                            "RatingSystem": "GRB",
+                            "RatingId": "GRB:12",
+                            "RatingDescriptors": ["GRB:Vio"],
+                            "RatingDisclaimers": [],
+                            "InteractiveElements": []
+                        },
+                        {
+                            "RatingSystem": "IARC",
+                            "RatingId": "IARC:12",
+                            "RatingDescriptors": ["IARC:ModVio", "IARC:MilSwe"],
+                            "RatingDisclaimers": [],
+                            "InteractiveElements": []
+                        },
+                        {
+                            "RatingSystem": "CCC",
+                            "RatingId": "CCC:14",
+                            "RatingDescriptors": [],
+                            "RatingDisclaimers": [],
+                            "InteractiveElements": []
+                        },
+                        {
+                            "RatingSystem": "Microsoft",
+                            "RatingId": "Microsoft:12",
+                            "RatingDescriptors": [],
+                            "RatingDisclaimers": [],
+                            "InteractiveElements": []
+                        }
+                    ],
+                    "RelatedProducts": [],
+                    "UsageData": [
+                        {
+                            "AggregateTimeSpan": "7Days",
+                            "AverageRating": 4.5,
+                            "PlayCount": 0,
+                            "RatingCount": 6,
+                            "RentalCount": "0",
+                            "TrialCount": "0",
+                            "PurchaseCount": "0"
+                        },
+                        {
+                            "AggregateTimeSpan": "30Days",
+                            "AverageRating": 4.7,
+                            "PlayCount": 0,
+                            "RatingCount": 11,
+                            "RentalCount": "0",
+                            "TrialCount": "0",
+                            "PurchaseCount": "0"
+                        },
+                        {
+                            "AggregateTimeSpan": "AllTime",
+                            "AverageRating": 4.8,
+                            "PlayCount": 0,
+                            "RatingCount": 266,
+                            "RentalCount": "0",
+                            "TrialCount": "0",
+                            "PurchaseCount": "0"
+                        }
+                    ],
+                    "BundleConfig": null,
+                    "Markets": ["TR"]
+                }
+            ],
+            "ProductASchema": "Product;3",
+            "ProductBSchema": "ProductGame;1",
+            "ProductId": "9MXW6JMGNCXW",
+            "Properties": {
+                "Attributes": [
+                    {
+                        "Name": "BroadcastSupport",
+                        "Minimum": null,
+                        "Maximum": null,
+                        "ApplicablePlatforms": null,
+                        "Group": null
+                    },
+                    {
+                        "Name": "Capability4k",
+                        "Minimum": null,
+                        "Maximum": null,
+                        "ApplicablePlatforms": ["Xbox"],
+                        "Group": null
+                    },
+                    {
+                        "Name": "SinglePlayer",
+                        "Minimum": null,
+                        "Maximum": null,
+                        "ApplicablePlatforms": ["Xbox"],
+                        "Group": null
+                    },
+                    {
+                        "Name": "XblAchievements",
+                        "Minimum": null,
+                        "Maximum": null,
+                        "ApplicablePlatforms": null,
+                        "Group": null
+                    },
+                    {
+                        "Name": "XblCloudSaves",
+                        "Minimum": null,
+                        "Maximum": null,
+                        "ApplicablePlatforms": null,
+                        "Group": null
+                    },
+                    {
+                        "Name": "XboxLive",
+                        "Minimum": null,
+                        "Maximum": null,
+                        "ApplicablePlatforms": null,
+                        "Group": null
+                    }
+                ],
+                "CanInstallToSDCard": false,
+                "Category": "Action & adventure",
+                "Categories": ["Action & adventure", "Classics"],
+                "Subcategory": null,
+                "IsAccessible": false,
+                "IsDemo": false,
+                "IsLineOfBusinessApp": false,
+                "IsPublishedToLegacyWindowsPhoneStore": false,
+                "IsPublishedToLegacyWindowsStore": false,
+                "PackageFamilyName": "KonamiDigitalEntertainmen.CastlevaniaAdvanceCollec_168atcksx2mfc",
+                "PackageIdentityName": "KonamiDigitalEntertainmen.CastlevaniaAdvanceCollec",
+                "PublisherCertificateName": "CN=932D7B5D-D563-47F9-AF96-AF8ECFA76F1F",
+                "PublisherId": "57559230",
+                "SkuDisplayGroups": [
+                    { "Id": "01", "Treatment": "MergeAvailabilities" }
+                ],
+                "XboxLiveTier": "Full",
+                "XboxXPA": null,
+                "XboxCrossGenSetId": null,
+                "XboxConsoleGenOptimized": ["ConsoleGen8"],
+                "XboxConsoleGenCompatible": ["ConsoleGen8", "ConsoleGen9"],
+                "XboxLiveGoldRequired": false,
+                "ExtendedMetadata": "9MXW6JMGNCXW_d00c6c49-af6e-403b-8a4d-018169ee7700",
+                "XBOX": null,
+                "OwnershipType": null,
+                "PdpBackgroundColor": "#FFFFFF",
+                "HasAddOns": false,
+                "RevisionId": "2022-06-20T17:52:53.9634603Z"
+            },
+            "AlternateIds": [
+                {
+                    "IdType": "LegacyWindowsStoreProductId",
+                    "Value": "df5cfed3-b8a2-45fe-918e-702ffe20ddd9"
+                },
+                {
+                    "IdType": "LegacyWindowsPhoneProductId",
+                    "Value": "2c2a998e-1f22-4d88-8c57-2ccac566ca94"
+                },
+                { "IdType": "XboxTitleId", "Value": "1739606934" },
+                {
+                    "IdType": "LegacyXboxProductId",
+                    "Value": "57584d39-4a36-304d-c047-4e4358578900"
+                }
+            ],
+            "DomainDataVersion": null,
+            "IngestionSource": "DCE",
+            "IsMicrosoftProduct": false,
+            "PreferredSkuId": "0010",
+            "ProductType": "Game",
+            "ValidationData": {
+                "PassedValidation": false,
+                "RevisionId": "2022-06-20T17:52:53.9634603Z||.||66c43d7b-be27-49b0-b5d8-d84c8c071df6||1152921505694795750||RETAIL||fullrelease",
+                "ValidationResultUri": ""
+            },
+            "MerchandizingTags": [],
+            "PartD": "",
+            "SandboxId": "RETAIL",
+            "ProductFamily": "Games",
+            "SchemaVersion": "3",
+            "IsSandboxedProduct": true,
+            "ProductKind": "Game",
+            "ProductPolicies": {},
+            "DisplaySkuAvailabilities": [
+                {
+                    "Sku": {
+                        "LastModifiedDate": "2022-06-20T17:51:22.8291901Z",
+                        "LocalizedProperties": [
+                            {
+                                "Contributors": [],
+                                "Features": [],
+                                "MinimumNotes": "",
+                                "RecommendedNotes": "",
+                                "ReleaseNotes": "",
+                                "DisplayPlatformProperties": null,
+                                "SkuDescription": "Kont Dracula yine ölümden döndü...\r\n\r\nKlasik aksiyon keşif başyapıtlarından oluşan bir seri olan Castlevania Advance Collection'da Kötülüğe karşı verilen savaşa katıl!\r\n\r\n2000'lerin başında yayınlanan efsanevi üç Castlevania oyununa ek olarak bu koleksiyonda Castlevania: Dracula X ve oyunlara ait daha önce görülmemiş çizimler ve sanat eserleri bulunuyor!\r\n\r\nOyunların dördüne de Geri Sarma, Kaydetme/Yükleme ve Tekrar Oynatma gibi yeni modern özellikler eklendi, böylece bu klasik oyunları deneyimlemenin veya ilk defa keşfetmenin en iyi yolunu sunuyoruz! Bu koleksiyonda ayrıca faydalı bir Ansiklopedi, tüm oyun müziklerinin bulunduğu bir Müzik Çalar bulunuyor ve hatta tüm oyunların farklı sürümlerini oynayabilmek için ROM Bölgesini bile değiştirebilirsin.\r\n\r\n\r\nBULUNAN OYUNLAR\r\n\r\nCastlevania: Circle of the Moon - Hikayede bir vampir avcısı çırağı olan Nathan Graves, ustasıyla birlikte Kont'un geri dönmesini önlemek için Dracula'nın Kalesi'ne giriyor. \"Dual Set-up System\" ile ateş kamçılarından buz fırtınalarına kadar çeşitlenen 80'in üzerinde eşsiz büyü etkisi oluşturmak için aksiyonu ve özellik kartlarını birleştir.\r\n\r\nCastlevania: Harmony of Dissonance - Efsanevi Vampir Avcısı Simon Belmont'un torunu olan Juste Belmont olarak oyna! Bu oyun, seriye \"Boss Rush\" modu ve oyunculara Fırlatılabilir Silahları Büyü Kitaplarıyla birleştirerek yıkıcı büyüler oluşturma imkanı sunan \"Büyü Birleştirme\" sistemi gibi bir sürü yeni özellik kattı.\r\n\r\nCastlevania: Aria of Sorrow - Japonya'daki liseli genç bir değişim öğrencisi olan Soma Cruz'un bir şekilde Karanlık Lort'un ebedi reenkarnasyon döngüsüyle bağlantısı var. Tüm bunlarda Soma'nın rolü ne? Soma kendi dünyasına geri dönebilecek mi? Aria of Sorrow ile oyuna Soma Cruz'un öldürdüğü canavarların ruhlarını toplayarak onların yeteneklerini kazanmasını sağlayan yepyeni bir saldırı sistemi olan \"Tactical Souls\" eklendi. (Toplamda 100'ün üstünde yetenek!) Ayrıca Aria of Sorrow'da bir sürü New Game+ içeriği var.\r\n\r\nCastlevania: Dracula X - Castlevania: Dracula X, unutulmaz aksiyon oyunu olan Castlevania: Rondo of Blood'ın yeniden hayal edilerek tasarlanan halidir ve şimdiye kadar hazırlanan en zorlu Castlevania oyunlarından biri olarak bilinir. Karanlık Lort Kont Dracula, karanlık kuvvetleri diriltip bu yozlaşan dünyayı yok etmek ve yeni bir dünya oluşturmak için tekrar ölümden dönüyor. Belmont ailesinin varisi olan Richter Belmont olarak oynuyorsun ve şeytani Dracula'yı yenmek için Dracula'nın Kalesi'ne doğru ilerliyorsun. Dracula'nın Kalesi'nde savaşarak ilerle ve yeni özel saldırı olan \"Item Crash\" ile en zorlu düşmanları yen!\r\n\r\n\r\nDAHA İYI BIR DENEYIM IÇIN YEPYENI ÖZELLIKLER!\r\n\r\nGaleri - Orijinal paket tasarımlarının taranmış hallerine göz at ve daha önce hiç yayınlanmayan inanılmaz sanat eserlerini keşfet.\r\n\r\nROM Bölgesi Seçimi - Her oyunun Japonya, Amerika ve Avrupa sürümlerini seçebilirsin.\r\n\r\nAnsiklopedi - Özel ansiklopedileri sayesinde üç oyunun her biri hakkında daha çok şey öğren. Düşmanlar hakkında detaylı bilgiler, \"DSS\", \"Tactical Soul\" ve \"Büyü Birleştirme\" sistemleri sayesinde her oyunun eşsiz savaş sisteminde ustalaşacaksın!\r\n\r\nMüzik Çalar - İstediğin zaman dört oyunun tüm oyun müziklerinden istediğini dinleyebilirsin. Hatta kendi çalma listelerini hazırlayabilirsin!\r\n\r\n\r\nYENI \"YAŞAM KALITESI\" ÖZELLIKLERI\r\n\r\nKaydetme/Yükleme - Artık oyunun istediğin yerinde oyunu hızlıca kaydedebilir ve yeniden yükleyebilirsin. Hatta bunu tam Dracula'nın ölümcül saldırısının öncesinde bile yapabilirsin.\r\n\r\nGeri Sarma - Artık ikinci bir şans için oyunun durumunu birkaç saniye geriye sarabilirsin. Neredeyse dirilmek gibi...\r\n\r\nTekrar Oynatma - Artık oyunlarını kaydedebilir ve tekrar oynatabilirsin. Bu, yeni taktikler hazırlamak, speed run yapmak ve yayıncılık için harika bir özellik.",
+                                "SkuTitle": "Castlevania Advance Collection",
+                                "SkuButtonTitle": "",
+                                "DeliveryDateOverlay": null,
+                                "SkuDisplayRank": [],
+                                "TextResources": null,
+                                "Images": [],
+                                "LegalText": {
+                                    "AdditionalLicenseTerms": "",
+                                    "Copyright": "© 2021 Konami Digital Entertainment",
+                                    "CopyrightUri": "",
+                                    "PrivacyPolicy": "",
+                                    "PrivacyPolicyUri": "https://legal.konami.com/games/privacy/",
+                                    "Tou": "",
+                                    "TouUri": ""
+                                },
+                                "Language": "tr",
+                                "Markets": [
+                                    "US",
+                                    "DZ",
+                                    "AR",
+                                    "AU",
+                                    "AT",
+                                    "BH",
+                                    "BD",
+                                    "BE",
+                                    "BR",
+                                    "BG",
+                                    "CA",
+                                    "CL",
+                                    "CN",
+                                    "CO",
+                                    "CR",
+                                    "HR",
+                                    "CY",
+                                    "CZ",
+                                    "DK",
+                                    "EG",
+                                    "EE",
+                                    "FI",
+                                    "FR",
+                                    "DE",
+                                    "GR",
+                                    "GT",
+                                    "HK",
+                                    "HU",
+                                    "IS",
+                                    "IN",
+                                    "ID",
+                                    "IQ",
+                                    "IE",
+                                    "IL",
+                                    "IT",
+                                    "JP",
+                                    "JO",
+                                    "KZ",
+                                    "KE",
+                                    "KW",
+                                    "LV",
+                                    "LB",
+                                    "LI",
+                                    "LT",
+                                    "LU",
+                                    "MY",
+                                    "MT",
+                                    "MR",
+                                    "MX",
+                                    "MA",
+                                    "NL",
+                                    "NZ",
+                                    "NG",
+                                    "NO",
+                                    "OM",
+                                    "PK",
+                                    "PE",
+                                    "PH",
+                                    "PL",
+                                    "PT",
+                                    "QA",
+                                    "RO",
+                                    "RU",
+                                    "SA",
+                                    "RS",
+                                    "SG",
+                                    "SK",
+                                    "SI",
+                                    "ZA",
+                                    "KR",
+                                    "ES",
+                                    "SE",
+                                    "CH",
+                                    "TW",
+                                    "TH",
+                                    "TT",
+                                    "TN",
+                                    "TR",
+                                    "UA",
+                                    "AE",
+                                    "GB",
+                                    "VN",
+                                    "YE",
+                                    "LY",
+                                    "LK",
+                                    "UY",
+                                    "VE",
+                                    "AF",
+                                    "AX",
+                                    "AL",
+                                    "AS",
+                                    "AO",
+                                    "AI",
+                                    "AQ",
+                                    "AG",
+                                    "AM",
+                                    "AW",
+                                    "BO",
+                                    "BQ",
+                                    "BA",
+                                    "BW",
+                                    "BV",
+                                    "IO",
+                                    "BN",
+                                    "BF",
+                                    "BI",
+                                    "KH",
+                                    "CM",
+                                    "CV",
+                                    "KY",
+                                    "CF",
+                                    "TD",
+                                    "TL",
+                                    "DJ",
+                                    "DM",
+                                    "DO",
+                                    "EC",
+                                    "SV",
+                                    "GQ",
+                                    "ER",
+                                    "ET",
+                                    "FK",
+                                    "FO",
+                                    "FJ",
+                                    "GF",
+                                    "PF",
+                                    "TF",
+                                    "GA",
+                                    "GM",
+                                    "GE",
+                                    "GH",
+                                    "GI",
+                                    "GL",
+                                    "GD",
+                                    "GP",
+                                    "GU",
+                                    "GG",
+                                    "GN",
+                                    "GW",
+                                    "GY",
+                                    "HT",
+                                    "HM",
+                                    "HN",
+                                    "AZ",
+                                    "BS",
+                                    "BB",
+                                    "BY",
+                                    "BZ",
+                                    "BJ",
+                                    "BM",
+                                    "BT",
+                                    "KM",
+                                    "CG",
+                                    "CD",
+                                    "CK",
+                                    "CX",
+                                    "CC",
+                                    "CI",
+                                    "CW",
+                                    "JM",
+                                    "SJ",
+                                    "JE",
+                                    "KI",
+                                    "KG",
+                                    "LA",
+                                    "LS",
+                                    "LR",
+                                    "MO",
+                                    "MK",
+                                    "MG",
+                                    "MW",
+                                    "IM",
+                                    "MH",
+                                    "MQ",
+                                    "MU",
+                                    "YT",
+                                    "FM",
+                                    "MD",
+                                    "MN",
+                                    "MS",
+                                    "MZ",
+                                    "MM",
+                                    "NA",
+                                    "NR",
+                                    "NP",
+                                    "MV",
+                                    "ML",
+                                    "NC",
+                                    "NI",
+                                    "NE",
+                                    "NU",
+                                    "NF",
+                                    "PW",
+                                    "PS",
+                                    "PA",
+                                    "PG",
+                                    "PY",
+                                    "RE",
+                                    "RW",
+                                    "BL",
+                                    "MF",
+                                    "WS",
+                                    "ST",
+                                    "SN",
+                                    "MP",
+                                    "PN",
+                                    "SX",
+                                    "SB",
+                                    "SO",
+                                    "SC",
+                                    "SL",
+                                    "GS",
+                                    "SH",
+                                    "KN",
+                                    "LC",
+                                    "PM",
+                                    "VC",
+                                    "TJ",
+                                    "TZ",
+                                    "TG",
+                                    "TK",
+                                    "TO",
+                                    "TM",
+                                    "TC",
+                                    "TV",
+                                    "UM",
+                                    "UG",
+                                    "VI",
+                                    "VG",
+                                    "WF",
+                                    "EH",
+                                    "ZM",
+                                    "ZW",
+                                    "UZ",
+                                    "VU",
+                                    "SR",
+                                    "SZ",
+                                    "AD",
+                                    "MC",
+                                    "SM",
+                                    "ME",
+                                    "VA",
+                                    "NEUTRAL"
+                                ]
+                            }
+                        ],
+                        "MarketProperties": [
+                            {
+                                "FirstAvailableDate": "2021-09-24T01:00:00.0000000Z",
+                                "SupportedLanguages": [
+                                    "ja",
+                                    "it",
+                                    "de",
+                                    "fr",
+                                    "en",
+                                    "ar",
+                                    "da",
+                                    "nl",
+                                    "fi",
+                                    "fr-ca",
+                                    "no",
+                                    "pl",
+                                    "pt-br",
+                                    "pt-pt",
+                                    "ru",
+                                    "es-eu",
+                                    "es-419",
+                                    "sv",
+                                    "tr"
+                                ],
+                                "PackageIds": null,
+                                "PIFilter": null,
+                                "Markets": ["TR"]
+                            }
+                        ],
+                        "ProductId": "9MXW6JMGNCXW",
+                        "Properties": {
+                            "EarlyAdopterEnrollmentUrl": null,
+                            "FulfillmentData": {
+                                "ProductId": "9MXW6JMGNCXW",
+                                "WuBundleId": "afcb9547-a3d6-4c0b-b1a8-6058e358c763",
+                                "WuCategoryId": "711553c6-f5f7-4973-a945-3e6a2c2c6954",
+                                "PackageFamilyName": "KonamiDigitalEntertainmen.CastlevaniaAdvanceCollec_168atcksx2mfc",
+                                "SkuId": "0010",
+                                "Content": null,
+                                "PackageFeatures": null
+                            },
+                            "FulfillmentType": "XVC",
+                            "FulfillmentPluginId": null,
+                            "HasThirdPartyIAPs": false,
+                            "LastUpdateDate": "2022-06-20T17:51:22.0000000Z",
+                            "HardwareProperties": {
+                                "MinimumHardware": [],
+                                "RecommendedHardware": [],
+                                "MinimumProcessor": "",
+                                "RecommendedProcessor": "",
+                                "MinimumGraphics": "",
+                                "RecommendedGraphics": ""
+                            },
+                            "HardwareRequirements": [],
+                            "HardwareWarningList": [],
+                            "InstallationTerms": "InstallationTermsRestrictiveXbox",
+                            "Packages": [
+                                {
+                                    "Applications": [],
+                                    "Architectures": ["x64"],
+                                    "Capabilities": [],
+                                    "DeviceCapabilities": [],
+                                    "ExperienceIds": [],
+                                    "FrameworkDependencies": [],
+                                    "HardwareDependencies": [],
+                                    "HardwareRequirements": [],
+                                    "Hash": "",
+                                    "HashAlgorithm": "",
+                                    "IsStreamingApp": false,
+                                    "Languages": [],
+                                    "MaxDownloadSizeInBytes": 818569216,
+                                    "MaxInstallSizeInBytes": 0,
+                                    "PackageFormat": "XVC",
+                                    "PackageFamilyName": null,
+                                    "MainPackageFamilyNameForDlc": null,
+                                    "PackageFullName": "",
+                                    "PackageId": "6ff12286-7f40-4c83-b550-a5f775f6b791",
+                                    "ContentId": "6ff12286-7f40-4c83-b550-a5f775f6b791",
+                                    "KeyId": "0b19f5d2-7273-b8fb-66c3-f8bc0f0a023d",
+                                    "PackageRank": 50000,
+                                    "PackageUri": "https://productingestionbin1.blob.core.windows.net",
+                                    "PlatformDependencies": [
+                                        {
+                                            "MaxTested": 0,
+                                            "MinVersion": 0,
+                                            "PlatformName": "Windows.Xbox"
+                                        }
+                                    ],
+                                    "PlatformDependencyXmlBlob": "",
+                                    "ResourceId": "",
+                                    "Version": "0",
+                                    "PackageDownloadUris": [
+                                        {
+                                            "Rank": 0,
+                                            "Uri": "https://productingestionbin1.blob.core.windows.net"
+                                        },
+                                        {
+                                            "Rank": 1,
+                                            "Uri": "https://productingestionbin1.blob.core.windows.net"
+                                        }
+                                    ],
+                                    "DriverDependencies": [],
+                                    "FulfillmentData": {
+                                        "ProductId": "9MXW6JMGNCXW",
+                                        "WuBundleId": "afcb9547-a3d6-4c0b-b1a8-6058e358c763",
+                                        "WuCategoryId": "711553c6-f5f7-4973-a945-3e6a2c2c6954",
+                                        "PackageFamilyName": "KonamiDigitalEntertainmen.CastlevaniaAdvanceCollec_168atcksx2mfc",
+                                        "SkuId": "0010",
+                                        "Content": null,
+                                        "PackageFeatures": null
+                                    }
+                                }
+                            ],
+                            "VersionString": "",
+                            "SkuDisplayGroupIds": ["01"],
+                            "XboxXPA": false,
+                            "BundledSkus": [],
+                            "IsRepurchasable": false,
+                            "SkuDisplayRank": 0,
+                            "DisplayPhysicalStoreInventory": null,
+                            "VisibleToB2BServiceIds": [],
+                            "AdditionalIdentifiers": [],
+                            "IsTrial": false,
+                            "IsPreOrder": false,
+                            "IsBundle": false
+                        },
+                        "SkuASchema": "Sku;3",
+                        "SkuBSchema": "SkuGame;1",
+                        "SkuId": "0010",
+                        "SkuType": "full",
+                        "RecurrencePolicy": null,
+                        "SubscriptionPolicyId": null
+                    },
+                    "Availabilities": [
+                        {
+                            "Actions": [
+                                "Details",
+                                "Fulfill",
+                                "Purchase",
+                                "Browse",
+                                "Curate",
+                                "Redeem"
+                            ],
+                            "AvailabilityASchema": "Availability;3",
+                            "AvailabilityBSchema": "AvailabilityGame;1",
+                            "AvailabilityId": "9XNWW3D9KZRK",
+                            "Conditions": {
+                                "ClientConditions": {
+                                    "AllowedPlatforms": [
+                                        {
+                                            "MaxVersion": 2147483647,
+                                            "MinVersion": 0,
+                                            "PlatformName": "Windows.Xbox"
+                                        }
+                                    ]
+                                },
+                                "EndDate": "2022-08-01T09:59:59.0000000Z",
+                                "ResourceSetIds": ["1"],
+                                "StartDate": "2022-07-14T20:00:00.0000000Z"
+                            },
+                            "LastModifiedDate": "2022-06-20T17:52:45.7030643Z",
+                            "Markets": ["TR"],
+                            "OrderManagementData": {
+                                "GrantedEntitlementKeys": [],
+                                "PIFilter": {
+                                    "ExclusionProperties": [],
+                                    "InclusionProperties": []
+                                },
+                                "Price": {
+                                    "CurrencyCode": "TRY",
+                                    "IsPIRequired": false,
+                                    "ListPrice": 117.13,
+                                    "MSRP": 174.83,
+                                    "TaxType": "NoApplicableTaxes",
+                                    "WholesaleCurrencyCode": "TRY",
+                                    "WholesalePrice": 69.49
+                                }
+                            },
+                            "Properties": {
+                                "OriginalReleaseDate": "2021-09-24T01:00:00.0000000Z"
+                            },
+                            "SkuId": "0010",
+                            "DisplayRank": 0,
+                            "AlternateIds": [
+                                {
+                                    "IdType": "LegacyTokenIdentifier",
+                                    "Value": "57584d39-4a36-304d-c047-4e4358578900"
+                                }
+                            ],
+                            "RemediationRequired": false
+                        },
+                        {
+                            "Actions": [
+                                "Details",
+                                "Fulfill",
+                                "Browse",
+                                "Curate",
+                                "Gift"
+                            ],
+                            "AvailabilityASchema": "Availability;3",
+                            "AvailabilityBSchema": "AvailabilityGame;1",
+                            "AvailabilityId": "9S1ZM6SZD9XW",
+                            "Conditions": {
+                                "ClientConditions": {
+                                    "AllowedPlatforms": [
+                                        {
+                                            "MaxVersion": 2147483647,
+                                            "MinVersion": 0,
+                                            "PlatformName": "Windows.Xbox"
+                                        }
+                                    ]
+                                },
+                                "EndDate": "2022-08-01T09:59:59.0000000Z",
+                                "ResourceSetIds": ["1"],
+                                "StartDate": "2022-07-14T20:00:00.0000000Z"
+                            },
+                            "LastModifiedDate": "2022-06-20T17:52:45.7030643Z",
+                            "Markets": ["TR"],
+                            "OrderManagementData": {
+                                "GrantedEntitlementKeys": [],
+                                "PIFilter": {
+                                    "ExclusionProperties": [],
+                                    "InclusionProperties": []
+                                },
+                                "Price": {
+                                    "CurrencyCode": "TRY",
+                                    "IsPIRequired": false,
+                                    "ListPrice": 117.13,
+                                    "MSRP": 174.83,
+                                    "TaxType": "NoApplicableTaxes",
+                                    "WholesaleCurrencyCode": "TRY",
+                                    "WholesalePrice": 69.49
+                                },
+                                "OrderManagementPolicyIdOverride": "microsoft.mint.token",
+                                "GeofencingPolicyId": "GIFTGEO:TR"
+                            },
+                            "Properties": {
+                                "OriginalReleaseDate": "2021-09-24T01:00:00.0000000Z"
+                            },
+                            "SkuId": "0010",
+                            "DisplayRank": 1,
+                            "AlternateIds": [],
+                            "RemediationRequired": false
+                        },
+                        {
+                            "Actions": ["License", "Browse", "Details"],
+                            "AvailabilityASchema": "Availability;3",
+                            "AvailabilityBSchema": "AvailabilityGame;1",
+                            "AvailabilityId": "9WSNNG4H0P6P",
+                            "Conditions": {
+                                "ClientConditions": {
+                                    "AllowedPlatforms": [
+                                        {
+                                            "MaxVersion": 2147483647,
+                                            "MinVersion": 0,
+                                            "PlatformName": "Windows.Xbox"
+                                        }
+                                    ]
+                                },
+                                "EndDate": "2022-08-01T09:59:59.0000000Z",
+                                "ResourceSetIds": ["1"],
+                                "StartDate": "2022-07-14T20:00:00.0000000Z"
+                            },
+                            "LastModifiedDate": "2022-06-20T17:52:45.7030643Z",
+                            "LicensingData": {
+                                "SatisfyingEntitlementKeys": [
+                                    {
+                                        "EntitlementKeys": [
+                                            "big:9MXW6JMGNCXW:0010"
+                                        ],
+                                        "LicensingKeyIds": ["1"]
+                                    },
+                                    {
+                                        "EntitlementKeys": [
+                                            "wes:App:2c2a998e-1f22-4d88-8c57-2ccac566ca94:Full"
+                                        ],
+                                        "LicensingKeyIds": ["1"]
+                                    },
+                                    {
+                                        "EntitlementKeys": [
+                                            "wes:App:df5cfed3-b8a2-45fe-918e-702ffe20ddd9:Full"
+                                        ],
+                                        "LicensingKeyIds": ["1"]
+                                    },
+                                    {
+                                        "EntitlementKeys": [
+                                            "big:9MXW6JMGNCXW:0001"
+                                        ],
+                                        "LicensingKeyIds": ["1"]
+                                    },
+                                    {
+                                        "EntitlementKeys": [
+                                            "big:9MXW6JMGNCXW:0002"
+                                        ],
+                                        "LicensingKeyIds": ["1"]
+                                    },
+                                    {
+                                        "EntitlementKeys": [
+                                            "big:C3R81KSMGC15:0001"
+                                        ],
+                                        "LicensingKeyIds": ["1"]
+                                    },
+                                    {
+                                        "EntitlementKeys": [
+                                            "big:C3R81KSMGC15:0003"
+                                        ],
+                                        "LicensingKeyIds": ["1"]
+                                    }
+                                ]
+                            },
+                            "Markets": ["TR"],
+                            "OrderManagementData": {
+                                "GrantedEntitlementKeys": [],
+                                "Price": {
+                                    "CurrencyCode": "USD",
+                                    "IsPIRequired": false,
+                                    "ListPrice": 0.0,
+                                    "MSRP": 0.0,
+                                    "TaxType": "",
+                                    "WholesaleCurrencyCode": ""
+                                }
+                            },
+                            "Properties": {},
+                            "SkuId": "0010",
+                            "DisplayRank": 2,
+                            "AlternateIds": [
+                                {
+                                    "IdType": "LegacyTokenIdentifier",
+                                    "Value": "57584d39-4a36-304d-c047-4e4358578900"
+                                }
+                            ],
+                            "RemediationRequired": false
+                        },
+                        {
+                            "Actions": ["License", "Details"],
+                            "AvailabilityASchema": "Availability;3",
+                            "AvailabilityBSchema": "AvailabilityGame;1",
+                            "AvailabilityId": "9NV6CQKZRXKN",
+                            "Conditions": {
+                                "ClientConditions": {
+                                    "AllowedPlatforms": [
+                                        {
+                                            "MaxVersion": 2147483647,
+                                            "MinVersion": 0,
+                                            "PlatformName": "Windows.Desktop"
+                                        },
+                                        {
+                                            "MaxVersion": 2147483647,
+                                            "MinVersion": 0,
+                                            "PlatformName": "Windows.Mobile"
+                                        },
+                                        {
+                                            "MaxVersion": 2147483647,
+                                            "MinVersion": 0,
+                                            "PlatformName": "Windows.Team"
+                                        },
+                                        {
+                                            "MaxVersion": 2147483647,
+                                            "MinVersion": 0,
+                                            "PlatformName": "Windows.Holographic"
+                                        },
+                                        {
+                                            "MaxVersion": 2147483647,
+                                            "MinVersion": 0,
+                                            "PlatformName": "Windows.8828080"
+                                        },
+                                        {
+                                            "MaxVersion": 2147483647,
+                                            "MinVersion": 0,
+                                            "PlatformName": "Windows.Core"
+                                        }
+                                    ]
+                                },
+                                "EndDate": "9998-12-30T00:00:00.0000000Z",
+                                "ResourceSetIds": ["1"],
+                                "StartDate": "1753-01-01T00:00:00.0000000Z"
+                            },
+                            "LastModifiedDate": "2022-06-20T17:52:45.7030643Z",
+                            "LicensingData": {
+                                "SatisfyingEntitlementKeys": [
+                                    {
+                                        "EntitlementKeys": [
+                                            "big:9MXW6JMGNCXW:0010"
+                                        ],
+                                        "LicensingKeyIds": ["1"]
+                                    },
+                                    {
+                                        "EntitlementKeys": [
+                                            "wes:App:2c2a998e-1f22-4d88-8c57-2ccac566ca94:Full"
+                                        ],
+                                        "LicensingKeyIds": ["1"]
+                                    },
+                                    {
+                                        "EntitlementKeys": [
+                                            "wes:App:df5cfed3-b8a2-45fe-918e-702ffe20ddd9:Full"
+                                        ],
+                                        "LicensingKeyIds": ["1"]
+                                    },
+                                    {
+                                        "EntitlementKeys": [
+                                            "big:9MXW6JMGNCXW:0001"
+                                        ],
+                                        "LicensingKeyIds": ["1"]
+                                    },
+                                    {
+                                        "EntitlementKeys": [
+                                            "big:9MXW6JMGNCXW:0002"
+                                        ],
+                                        "LicensingKeyIds": ["1"]
+                                    },
+                                    {
+                                        "EntitlementKeys": [
+                                            "big:C3R81KSMGC15:0001"
+                                        ],
+                                        "LicensingKeyIds": ["1"]
+                                    },
+                                    {
+                                        "EntitlementKeys": [
+                                            "big:C3R81KSMGC15:0003"
+                                        ],
+                                        "LicensingKeyIds": ["1"]
+                                    }
+                                ]
+                            },
+                            "Markets": ["TR"],
+                            "OrderManagementData": {
+                                "GrantedEntitlementKeys": [],
+                                "Price": {
+                                    "CurrencyCode": "USD",
+                                    "IsPIRequired": false,
+                                    "ListPrice": 0.0,
+                                    "MSRP": 0.0,
+                                    "TaxType": "",
+                                    "WholesaleCurrencyCode": ""
+                                }
+                            },
+                            "Properties": {},
+                            "SkuId": "0010",
+                            "DisplayRank": 3,
+                            "RemediationRequired": false
+                        }
+                    ]
+                },
+                {
+                    "Sku": {
+                        "LastModifiedDate": "2022-06-20T17:51:22.8291901Z",
+                        "LocalizedProperties": [
+                            {
+                                "Contributors": [],
+                                "Features": [],
+                                "MinimumNotes": "",
+                                "RecommendedNotes": "",
+                                "ReleaseNotes": "",
+                                "DisplayPlatformProperties": null,
+                                "SkuDescription": "Kont Dracula yine ölümden döndü...\r\n\r\nKlasik aksiyon keşif başyapıtlarından oluşan bir seri olan Castlevania Advance Collection'da Kötülüğe karşı verilen savaşa katıl!\r\n\r\n2000'lerin başında yayınlanan efsanevi üç Castlevania oyununa ek olarak bu koleksiyonda Castlevania: Dracula X ve oyunlara ait daha önce görülmemiş çizimler ve sanat eserleri bulunuyor!\r\n\r\nOyunların dördüne de Geri Sarma, Kaydetme/Yükleme ve Tekrar Oynatma gibi yeni modern özellikler eklendi, böylece bu klasik oyunları deneyimlemenin veya ilk defa keşfetmenin en iyi yolunu sunuyoruz! Bu koleksiyonda ayrıca faydalı bir Ansiklopedi, tüm oyun müziklerinin bulunduğu bir Müzik Çalar bulunuyor ve hatta tüm oyunların farklı sürümlerini oynayabilmek için ROM Bölgesini bile değiştirebilirsin.\r\n\r\n\r\nBULUNAN OYUNLAR\r\n\r\nCastlevania: Circle of the Moon - Hikayede bir vampir avcısı çırağı olan Nathan Graves, ustasıyla birlikte Kont'un geri dönmesini önlemek için Dracula'nın Kalesi'ne giriyor. \"Dual Set-up System\" ile ateş kamçılarından buz fırtınalarına kadar çeşitlenen 80'in üzerinde eşsiz büyü etkisi oluşturmak için aksiyonu ve özellik kartlarını birleştir.\r\n\r\nCastlevania: Harmony of Dissonance - Efsanevi Vampir Avcısı Simon Belmont'un torunu olan Juste Belmont olarak oyna! Bu oyun, seriye \"Boss Rush\" modu ve oyunculara Fırlatılabilir Silahları Büyü Kitaplarıyla birleştirerek yıkıcı büyüler oluşturma imkanı sunan \"Büyü Birleştirme\" sistemi gibi bir sürü yeni özellik kattı.\r\n\r\nCastlevania: Aria of Sorrow - Japonya'daki liseli genç bir değişim öğrencisi olan Soma Cruz'un bir şekilde Karanlık Lort'un ebedi reenkarnasyon döngüsüyle bağlantısı var. Tüm bunlarda Soma'nın rolü ne? Soma kendi dünyasına geri dönebilecek mi? Aria of Sorrow ile oyuna Soma Cruz'un öldürdüğü canavarların ruhlarını toplayarak onların yeteneklerini kazanmasını sağlayan yepyeni bir saldırı sistemi olan \"Tactical Souls\" eklendi. (Toplamda 100'ün üstünde yetenek!) Ayrıca Aria of Sorrow'da bir sürü New Game+ içeriği var.\r\n\r\nCastlevania: Dracula X - Castlevania: Dracula X, unutulmaz aksiyon oyunu olan Castlevania: Rondo of Blood'ın yeniden hayal edilerek tasarlanan halidir ve şimdiye kadar hazırlanan en zorlu Castlevania oyunlarından biri olarak bilinir. Karanlık Lort Kont Dracula, karanlık kuvvetleri diriltip bu yozlaşan dünyayı yok etmek ve yeni bir dünya oluşturmak için tekrar ölümden dönüyor. Belmont ailesinin varisi olan Richter Belmont olarak oynuyorsun ve şeytani Dracula'yı yenmek için Dracula'nın Kalesi'ne doğru ilerliyorsun. Dracula'nın Kalesi'nde savaşarak ilerle ve yeni özel saldırı olan \"Item Crash\" ile en zorlu düşmanları yen!\r\n\r\n\r\nDAHA İYI BIR DENEYIM IÇIN YEPYENI ÖZELLIKLER!\r\n\r\nGaleri - Orijinal paket tasarımlarının taranmış hallerine göz at ve daha önce hiç yayınlanmayan inanılmaz sanat eserlerini keşfet.\r\n\r\nROM Bölgesi Seçimi - Her oyunun Japonya, Amerika ve Avrupa sürümlerini seçebilirsin.\r\n\r\nAnsiklopedi - Özel ansiklopedileri sayesinde üç oyunun her biri hakkında daha çok şey öğren. Düşmanlar hakkında detaylı bilgiler, \"DSS\", \"Tactical Soul\" ve \"Büyü Birleştirme\" sistemleri sayesinde her oyunun eşsiz savaş sisteminde ustalaşacaksın!\r\n\r\nMüzik Çalar - İstediğin zaman dört oyunun tüm oyun müziklerinden istediğini dinleyebilirsin. Hatta kendi çalma listelerini hazırlayabilirsin!\r\n\r\n\r\nYENI \"YAŞAM KALITESI\" ÖZELLIKLERI\r\n\r\nKaydetme/Yükleme - Artık oyunun istediğin yerinde oyunu hızlıca kaydedebilir ve yeniden yükleyebilirsin. Hatta bunu tam Dracula'nın ölümcül saldırısının öncesinde bile yapabilirsin.\r\n\r\nGeri Sarma - Artık ikinci bir şans için oyunun durumunu birkaç saniye geriye sarabilirsin. Neredeyse dirilmek gibi...\r\n\r\nTekrar Oynatma - Artık oyunlarını kaydedebilir ve tekrar oynatabilirsin. Bu, yeni taktikler hazırlamak, speed run yapmak ve yayıncılık için harika bir özellik.",
+                                "SkuTitle": "Castlevania Advance Collection",
+                                "SkuButtonTitle": "",
+                                "DeliveryDateOverlay": null,
+                                "SkuDisplayRank": [],
+                                "TextResources": null,
+                                "Images": [],
+                                "LegalText": {
+                                    "AdditionalLicenseTerms": "",
+                                    "Copyright": "© 2021 Konami Digital Entertainment",
+                                    "CopyrightUri": "",
+                                    "PrivacyPolicy": "",
+                                    "PrivacyPolicyUri": "https://legal.konami.com/games/privacy/",
+                                    "Tou": "",
+                                    "TouUri": ""
+                                },
+                                "Language": "tr",
+                                "Markets": [
+                                    "US",
+                                    "DZ",
+                                    "AR",
+                                    "AU",
+                                    "AT",
+                                    "BH",
+                                    "BD",
+                                    "BE",
+                                    "BR",
+                                    "BG",
+                                    "CA",
+                                    "CL",
+                                    "CN",
+                                    "CO",
+                                    "CR",
+                                    "HR",
+                                    "CY",
+                                    "CZ",
+                                    "DK",
+                                    "EG",
+                                    "EE",
+                                    "FI",
+                                    "FR",
+                                    "DE",
+                                    "GR",
+                                    "GT",
+                                    "HK",
+                                    "HU",
+                                    "IS",
+                                    "IN",
+                                    "ID",
+                                    "IQ",
+                                    "IE",
+                                    "IL",
+                                    "IT",
+                                    "JP",
+                                    "JO",
+                                    "KZ",
+                                    "KE",
+                                    "KW",
+                                    "LV",
+                                    "LB",
+                                    "LI",
+                                    "LT",
+                                    "LU",
+                                    "MY",
+                                    "MT",
+                                    "MR",
+                                    "MX",
+                                    "MA",
+                                    "NL",
+                                    "NZ",
+                                    "NG",
+                                    "NO",
+                                    "OM",
+                                    "PK",
+                                    "PE",
+                                    "PH",
+                                    "PL",
+                                    "PT",
+                                    "QA",
+                                    "RO",
+                                    "RU",
+                                    "SA",
+                                    "RS",
+                                    "SG",
+                                    "SK",
+                                    "SI",
+                                    "ZA",
+                                    "KR",
+                                    "ES",
+                                    "SE",
+                                    "CH",
+                                    "TW",
+                                    "TH",
+                                    "TT",
+                                    "TN",
+                                    "TR",
+                                    "UA",
+                                    "AE",
+                                    "GB",
+                                    "VN",
+                                    "YE",
+                                    "LY",
+                                    "LK",
+                                    "UY",
+                                    "VE",
+                                    "AF",
+                                    "AX",
+                                    "AL",
+                                    "AS",
+                                    "AO",
+                                    "AI",
+                                    "AQ",
+                                    "AG",
+                                    "AM",
+                                    "AW",
+                                    "BO",
+                                    "BQ",
+                                    "BA",
+                                    "BW",
+                                    "BV",
+                                    "IO",
+                                    "BN",
+                                    "BF",
+                                    "BI",
+                                    "KH",
+                                    "CM",
+                                    "CV",
+                                    "KY",
+                                    "CF",
+                                    "TD",
+                                    "TL",
+                                    "DJ",
+                                    "DM",
+                                    "DO",
+                                    "EC",
+                                    "SV",
+                                    "GQ",
+                                    "ER",
+                                    "ET",
+                                    "FK",
+                                    "FO",
+                                    "FJ",
+                                    "GF",
+                                    "PF",
+                                    "TF",
+                                    "GA",
+                                    "GM",
+                                    "GE",
+                                    "GH",
+                                    "GI",
+                                    "GL",
+                                    "GD",
+                                    "GP",
+                                    "GU",
+                                    "GG",
+                                    "GN",
+                                    "GW",
+                                    "GY",
+                                    "HT",
+                                    "HM",
+                                    "HN",
+                                    "AZ",
+                                    "BS",
+                                    "BB",
+                                    "BY",
+                                    "BZ",
+                                    "BJ",
+                                    "BM",
+                                    "BT",
+                                    "KM",
+                                    "CG",
+                                    "CD",
+                                    "CK",
+                                    "CX",
+                                    "CC",
+                                    "CI",
+                                    "CW",
+                                    "JM",
+                                    "SJ",
+                                    "JE",
+                                    "KI",
+                                    "KG",
+                                    "LA",
+                                    "LS",
+                                    "LR",
+                                    "MO",
+                                    "MK",
+                                    "MG",
+                                    "MW",
+                                    "IM",
+                                    "MH",
+                                    "MQ",
+                                    "MU",
+                                    "YT",
+                                    "FM",
+                                    "MD",
+                                    "MN",
+                                    "MS",
+                                    "MZ",
+                                    "MM",
+                                    "NA",
+                                    "NR",
+                                    "NP",
+                                    "MV",
+                                    "ML",
+                                    "NC",
+                                    "NI",
+                                    "NE",
+                                    "NU",
+                                    "NF",
+                                    "PW",
+                                    "PS",
+                                    "PA",
+                                    "PG",
+                                    "PY",
+                                    "RE",
+                                    "RW",
+                                    "BL",
+                                    "MF",
+                                    "WS",
+                                    "ST",
+                                    "SN",
+                                    "MP",
+                                    "PN",
+                                    "SX",
+                                    "SB",
+                                    "SO",
+                                    "SC",
+                                    "SL",
+                                    "GS",
+                                    "SH",
+                                    "KN",
+                                    "LC",
+                                    "PM",
+                                    "VC",
+                                    "TJ",
+                                    "TZ",
+                                    "TG",
+                                    "TK",
+                                    "TO",
+                                    "TM",
+                                    "TC",
+                                    "TV",
+                                    "UM",
+                                    "UG",
+                                    "VI",
+                                    "VG",
+                                    "WF",
+                                    "EH",
+                                    "ZM",
+                                    "ZW",
+                                    "UZ",
+                                    "VU",
+                                    "SR",
+                                    "SZ",
+                                    "AD",
+                                    "MC",
+                                    "SM",
+                                    "ME",
+                                    "VA",
+                                    "NEUTRAL"
+                                ]
+                            }
+                        ],
+                        "MarketProperties": [
+                            {
+                                "FirstAvailableDate": "2021-09-24T01:00:00.0000000Z",
+                                "SupportedLanguages": [
+                                    "ja",
+                                    "it",
+                                    "de",
+                                    "fr",
+                                    "en",
+                                    "ar",
+                                    "da",
+                                    "nl",
+                                    "fi",
+                                    "fr-ca",
+                                    "no",
+                                    "pl",
+                                    "pt-br",
+                                    "pt-pt",
+                                    "ru",
+                                    "es-eu",
+                                    "es-419",
+                                    "sv",
+                                    "tr"
+                                ],
+                                "PackageIds": null,
+                                "PIFilter": null,
+                                "Markets": ["TR"]
+                            }
+                        ],
+                        "ProductId": "9MXW6JMGNCXW",
+                        "Properties": {
+                            "EarlyAdopterEnrollmentUrl": null,
+                            "FulfillmentData": {
+                                "ProductId": "9MXW6JMGNCXW",
+                                "WuBundleId": "afcb9547-a3d6-4c0b-b1a8-6058e358c763",
+                                "WuCategoryId": "711553c6-f5f7-4973-a945-3e6a2c2c6954",
+                                "PackageFamilyName": "KonamiDigitalEntertainmen.CastlevaniaAdvanceCollec_168atcksx2mfc",
+                                "SkuId": "0011",
+                                "Content": null,
+                                "PackageFeatures": null
+                            },
+                            "FulfillmentType": "XVC",
+                            "FulfillmentPluginId": null,
+                            "HasThirdPartyIAPs": false,
+                            "LastUpdateDate": "2022-06-20T17:51:22.0000000Z",
+                            "HardwareProperties": {
+                                "MinimumHardware": [],
+                                "RecommendedHardware": [],
+                                "MinimumProcessor": "",
+                                "RecommendedProcessor": "",
+                                "MinimumGraphics": "",
+                                "RecommendedGraphics": ""
+                            },
+                            "HardwareRequirements": [],
+                            "HardwareWarningList": [],
+                            "InstallationTerms": "InstallationTermsRestrictiveXbox",
+                            "Packages": [
+                                {
+                                    "Applications": [],
+                                    "Architectures": ["x64"],
+                                    "Capabilities": [],
+                                    "DeviceCapabilities": [],
+                                    "ExperienceIds": [],
+                                    "FrameworkDependencies": [],
+                                    "HardwareDependencies": [],
+                                    "HardwareRequirements": [],
+                                    "Hash": "",
+                                    "HashAlgorithm": "",
+                                    "IsStreamingApp": false,
+                                    "Languages": [],
+                                    "MaxDownloadSizeInBytes": 818569216,
+                                    "MaxInstallSizeInBytes": 0,
+                                    "PackageFormat": "XVC",
+                                    "PackageFamilyName": null,
+                                    "MainPackageFamilyNameForDlc": null,
+                                    "PackageFullName": "",
+                                    "PackageId": "6ff12286-7f40-4c83-b550-a5f775f6b791",
+                                    "ContentId": "6ff12286-7f40-4c83-b550-a5f775f6b791",
+                                    "KeyId": "0b19f5d2-7273-b8fb-66c3-f8bc0f0a023d",
+                                    "PackageRank": 50000,
+                                    "PackageUri": "https://productingestionbin1.blob.core.windows.net",
+                                    "PlatformDependencies": [
+                                        {
+                                            "MaxTested": 0,
+                                            "MinVersion": 0,
+                                            "PlatformName": "Windows.Xbox"
+                                        }
+                                    ],
+                                    "PlatformDependencyXmlBlob": "",
+                                    "ResourceId": "",
+                                    "Version": "0",
+                                    "PackageDownloadUris": [
+                                        {
+                                            "Rank": 0,
+                                            "Uri": "https://productingestionbin1.blob.core.windows.net"
+                                        },
+                                        {
+                                            "Rank": 1,
+                                            "Uri": "https://productingestionbin1.blob.core.windows.net"
+                                        }
+                                    ],
+                                    "DriverDependencies": [],
+                                    "FulfillmentData": {
+                                        "ProductId": "9MXW6JMGNCXW",
+                                        "WuBundleId": "afcb9547-a3d6-4c0b-b1a8-6058e358c763",
+                                        "WuCategoryId": "711553c6-f5f7-4973-a945-3e6a2c2c6954",
+                                        "PackageFamilyName": "KonamiDigitalEntertainmen.CastlevaniaAdvanceCollec_168atcksx2mfc",
+                                        "SkuId": "0011",
+                                        "Content": null,
+                                        "PackageFeatures": null
+                                    }
+                                }
+                            ],
+                            "VersionString": "",
+                            "SkuDisplayGroupIds": null,
+                            "XboxXPA": false,
+                            "BundledSkus": [],
+                            "IsRepurchasable": false,
+                            "SkuDisplayRank": 2,
+                            "DisplayPhysicalStoreInventory": null,
+                            "VisibleToB2BServiceIds": [],
+                            "AdditionalIdentifiers": [],
+                            "IsTrial": true,
+                            "IsPreOrder": false,
+                            "IsBundle": false
+                        },
+                        "SkuASchema": "Sku;3",
+                        "SkuBSchema": "SkuGame;1",
+                        "SkuId": "0011",
+                        "SkuType": "trial",
+                        "RecurrencePolicy": null,
+                        "SubscriptionPolicyId": null
+                    },
+                    "Availabilities": [
+                        {
+                            "Actions": ["Details", "License", "Fulfill"],
+                            "AvailabilityASchema": "Availability;3",
+                            "AvailabilityBSchema": "AvailabilityGame;1",
+                            "AvailabilityId": "9Z31M0M35JZD",
+                            "Conditions": {
+                                "ClientConditions": {
+                                    "AllowedPlatforms": [
+                                        {
+                                            "MaxVersion": 2147483647,
+                                            "MinVersion": 0,
+                                            "PlatformName": "Windows.Xbox"
+                                        }
+                                    ]
+                                },
+                                "EndDate": "9998-12-30T00:00:00.0000000Z",
+                                "ResourceSetIds": ["1"],
+                                "StartDate": "1753-01-01T00:00:00.0000000Z"
+                            },
+                            "LastModifiedDate": "2022-06-20T17:52:45.7030643Z",
+                            "Markets": ["TR"],
+                            "OrderManagementData": {
+                                "GrantedEntitlementKeys": [],
+                                "Price": {
+                                    "CurrencyCode": "USD",
+                                    "IsPIRequired": false,
+                                    "ListPrice": 0.0,
+                                    "MSRP": 0.0,
+                                    "TaxType": "",
+                                    "WholesaleCurrencyCode": ""
+                                }
+                            },
+                            "Properties": {},
+                            "SkuId": "0011",
+                            "DisplayRank": 0,
+                            "RemediationRequired": false
+                        },
+                        {
+                            "Actions": ["License", "Details"],
+                            "AvailabilityASchema": "Availability;3",
+                            "AvailabilityBSchema": "AvailabilityGame;1",
+                            "AvailabilityId": "B3CKHDM3FS32",
+                            "Conditions": {
+                                "ClientConditions": {
+                                    "AllowedPlatforms": [
+                                        {
+                                            "MaxVersion": 2147483647,
+                                            "MinVersion": 0,
+                                            "PlatformName": "Windows.Desktop"
+                                        },
+                                        {
+                                            "MaxVersion": 2147483647,
+                                            "MinVersion": 0,
+                                            "PlatformName": "Windows.Mobile"
+                                        },
+                                        {
+                                            "MaxVersion": 2147483647,
+                                            "MinVersion": 0,
+                                            "PlatformName": "Windows.Team"
+                                        },
+                                        {
+                                            "MaxVersion": 2147483647,
+                                            "MinVersion": 0,
+                                            "PlatformName": "Windows.Holographic"
+                                        },
+                                        {
+                                            "MaxVersion": 2147483647,
+                                            "MinVersion": 0,
+                                            "PlatformName": "Windows.8828080"
+                                        },
+                                        {
+                                            "MaxVersion": 2147483647,
+                                            "MinVersion": 0,
+                                            "PlatformName": "Windows.Core"
+                                        }
+                                    ]
+                                },
+                                "EndDate": "9998-12-30T00:00:00.0000000Z",
+                                "ResourceSetIds": ["1"],
+                                "StartDate": "1753-01-01T00:00:00.0000000Z"
+                            },
+                            "LastModifiedDate": "2022-06-20T17:52:45.7030643Z",
+                            "Markets": ["TR"],
+                            "OrderManagementData": {
+                                "GrantedEntitlementKeys": [],
+                                "Price": {
+                                    "CurrencyCode": "USD",
+                                    "IsPIRequired": false,
+                                    "ListPrice": 0.0,
+                                    "MSRP": 0.0,
+                                    "TaxType": "",
+                                    "WholesaleCurrencyCode": ""
+                                }
+                            },
+                            "Properties": {},
+                            "SkuId": "0011",
+                            "DisplayRank": 1,
+                            "RemediationRequired": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
